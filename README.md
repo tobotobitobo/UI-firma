@@ -1,8 +1,7 @@
 # UI-firma
 Interaktívna firma na predmet Umelá inteligencia
 
-# Návrh projektu: Transformácia obrazu z kamery na stavový priestor pre 
-# navigáciu robota v bludisku.
+# Návrh projektu: Transformácia obrazu z kamery na stavový priestor pre navigáciu robota v bludisku.
 
 Cieľ: Cieľom tohoto projektu je detekcia a klasifikácia objektov na snímkach z kamery s 
 cieľom ich ďalšieho použitia . Študenti tak získajú praktické skúsenosti s porozumením 
